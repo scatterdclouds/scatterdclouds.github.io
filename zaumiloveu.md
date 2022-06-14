@@ -26,7 +26,7 @@ permalink: /zaumiloveu/
 
 
 
-[welcome-to-revachol-translation]: _posts/2021-05-16-welcome-to-revachol.markdown
-[thought-cabinet-translation]: _posts/2021-06-26-the-thought-cabinet.markdown
-[modern-fantasy-world-translation]: _posts/2021-05-17-modern-fantasy-world.markdown
-[interviews-devblog-translation]: _posts/2021-05-18-zaum-interviews.markdown
+[welcome-to-revachol-translation]: _posts/2021-05-16-welcome-to-revachol.md
+[thought-cabinet-translation]: _posts/2021-06-26-introducing-the-thought-cabinet.md
+[modern-fantasy-world-translation]: _posts/2021-05-17-the-benefits-of-a-modern-fantasy-world.md
+[interviews-devblog-translation]: _posts/2021-05-18-zaum-interviews.md
