@@ -26,5 +26,8 @@ tags: [翻译, 马佐夫主义社会经济学, 未完成]
 
 由此，应当对暴力的问题去神秘化，拒绝对于二十世纪共产主义用了太多过量的谋杀暴力的简单指控，并且我们应当警惕不再掉入这一陷阱。当然，作为一项事实，这真实得可怕，但对于暴力如此直接的关注忽视了根本的问题：二十世纪的共产主义运动在哪里出了错，是哪一项内在的弱点将共产主义者推向了求助于当权的（不仅是）共产主义者们无限使用暴力？换言之，说共产主义者“忽视了暴力的问题”是不够的：是更深刻的社会政治失败把他们推向了暴力。（认为共产主义者“忽视了民主”的概念与之同理：他们的改造社会的整体运动将这一“忽视”强加于他们。）不仅是诺兰的电影无法想象真正的人民力量——那些“真正的”激进解放运动也无力做到，它们仍被困于旧社会的坐标中，这正是为什么现实的“人民的力量”常常是这样一种暴力的恐怖。
 
+[Notes towards a critique of Maoism][maoison-critique-link]
+
 
 [zizek-article-link]: https://blogdaboitempo.com.br/2012/08/08/dictatorship-of-the-proletariat-in-gotham-city-slavoj-zizek-on-the-dark-knight-rises/
+[maoison-critique-link]: https://libcom.org/article/notes-towards-critique-maoism
