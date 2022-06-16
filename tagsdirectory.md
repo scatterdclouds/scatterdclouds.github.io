@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 标签索引
-permalink: /directory/
+permalink: /tagsdirectory/
 ---
 
 马佐夫主义社会经济学：左翼相关的一切内容
