@@ -6,7 +6,7 @@ categories: [翻译, 资料, 存稿箱]
 tags: [翻译, 马佐夫主义社会经济学, 未完成]
 ---
 
-之前的零散节译，私人分享为主，不学术无beta。并且还没搬运完！。
+之前的零散节译，私人分享为主，不学术无beta，并且还没搬运完！。
 
 [Dictatorship of the Proletariat in Gotham City | Slavoj Žižek on ‘The Dark Knight Rises’] [https://blogdaboitempo.com.br/2012/08/08/dictatorship-of-the-proletariat-in-gotham-city-slavoj-zizek-on-the-dark-knight-rises/]
 
