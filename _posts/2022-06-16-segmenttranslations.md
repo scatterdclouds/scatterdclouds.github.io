@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "材料节译，未完成"
 date: 2022-06-16 12:57:00 +0800
 categories: [翻译, 资料, 存稿箱]
