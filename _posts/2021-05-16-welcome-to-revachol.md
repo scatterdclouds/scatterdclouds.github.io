@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "欢迎来到瑞瓦肖！"
 date: 2021-05-16 01:48:00 +0800
 categories: [翻译, ZA/UM搬运]
