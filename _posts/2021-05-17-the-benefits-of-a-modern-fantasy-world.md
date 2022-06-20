@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "现代幻想世界的优势"
 date: 2021-05-17 01:59:00 +0800
 categories: [翻译, ZA/UM搬运]
