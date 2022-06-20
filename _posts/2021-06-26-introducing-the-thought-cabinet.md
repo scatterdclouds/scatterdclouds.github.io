@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "介绍思维阁"
 date: 2021-06-26 09:16:00 +0800
 categories: [翻译, ZA/UM搬运]
