@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "乡愁"
 date: 2022-06-20 15:20:00 +0800
 categories: []
