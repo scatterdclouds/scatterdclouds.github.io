@@ -3,6 +3,7 @@ description: 我们只是忘掉了触碰额头后，把彼此的头颅留在了�
 author: 鹿角星中继站
 avatar: 
 email: 
+icon: public/img/icon.jpg
 
 plugins:
   - jekyll-seo-tag
