@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "欢迎来到瑞瓦肖！"
 date: 2021-05-16 01:48:00 +0800
-categories: [翻译, ZA/UM搬运]
+categories: [翻译, Elysium资料搬运]
 tags: 极乐迪斯科
 ---
 > 笑话从来都没什么好笑的。
