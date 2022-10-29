@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ZA/UM相关翻译
+title: 极乐世界相关翻译
 permalink: /zaumiloveu/
 ---
 
@@ -23,6 +23,10 @@ permalink: /zaumiloveu/
 
 ### 其他：
 - Sacred and Terrible Air书评
+
+- [终场白](_posts/2022-10-28-outro.md)
+> 它是无足轻重的人们眼中所见的地缘政治梦想。
+
 
 
 
