@@ -3,7 +3,7 @@ layout: post
 comments: true
 title: "访谈节选"
 date: 2021-05-18 03:02:00 +0800
-categories: [翻译, Elysium资料搬运]
+categories: [翻译, I learn Elysium]
 tags: [zaum, 极乐迪斯科]
 ---
 >极乐是对世界本身的珍爱的表达。
