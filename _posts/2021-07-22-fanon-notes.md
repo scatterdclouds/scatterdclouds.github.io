@@ -2,7 +2,7 @@
 layout: post
 comments: true
 title: "法农《全世界受苦的人》案例笔记"
-date: 2020-07-22 12:00:00 -0800
+date: 2021-07-22 12:00:00 -0800
 categories: [读书笔记, 资料]
 tags: [franz-fanon, 马佐夫主义社会经济学]
 ---
