@@ -7,7 +7,7 @@ categories: [读书笔记, 资料]
 tags: [franz-fanon, 马佐夫主义社会经济学]
 ---
 
-Fanon, Frantz, 1925-1961. The Wretched of the Earth. New York: Grove Press, 1968.
+Fanon, Frantz, 1925-1961. *The Wretched of the Earth*. New York: Grove Press, 1968.
 
 Series A：直接由战争造成的精神疾病
 
