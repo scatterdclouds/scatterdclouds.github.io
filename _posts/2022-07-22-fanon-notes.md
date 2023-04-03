@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title: "殖民战争中的精神问题案例"
+title: "殖民战争中的精神问题"
 date: 2022-07-22 12:00:00 +0800
 categories: [读书笔记, 资料]
 tags: [franz-fanon, 马佐夫主义社会经济学]
