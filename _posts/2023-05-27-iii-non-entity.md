@@ -4,7 +4,7 @@ title: "非实体"
 date: 2023-05-27 16:10:00 -0800
 last_modified_at: 
 categories: [翻译, I learn Elysium]
-tags: [Elysium]
+tags: [sacred-and-terrible-air]
 comments: true
 ---
 "3. Non-Entity" from *Sacred and Terrible Air* by Robert Kurvitz
