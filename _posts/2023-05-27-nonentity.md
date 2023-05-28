@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "非实体"
-date: 2023-05-27 16:10:00 -0800
+date: 2023-05-27 16:10:00 -0700
 last_modified_at: 
-categories: [翻译]
-tags: [sacred-and-terrible-air]
+categories: [翻译, Sacred and Terrible Air]
+tags: []
 comments: true
 ---
 "3. Non-Entity" from *Sacred and Terrible Air* by Robert Kurvitz
