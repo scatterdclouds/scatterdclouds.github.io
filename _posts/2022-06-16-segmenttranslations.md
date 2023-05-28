@@ -7,7 +7,7 @@ categories: [翻译, 资料, 存稿箱]
 tags: [马佐夫主义社会经济学, 猫是最好的无政府主义者, 未完成]
 ---
 
-之前的零散节译，私人分享为主，不学术无beta，并且还没搬运完！。
+之前的零散节译，私人分享为主，不学术无beta
 
 [Dictatorship of the Proletariat in Gotham City - Slavoj Žižek on ‘The Dark Knight Rises’][zizek-article-link]
 
