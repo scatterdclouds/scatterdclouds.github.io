@@ -115,4 +115,4 @@ Extract from "4. Vitkun Hird" from *Sacred and Terrible Air* by Robert Kurvitz
 
 “你不知道，康拉德，我操她操得多狠。你无法想象……”当耶斯佩尔匆忙关闭投影机时，赫德还在述说着。
 
-<sup>1</sup>“繁星”牌香烟
+<sup>1</sup> “繁星”牌香烟
