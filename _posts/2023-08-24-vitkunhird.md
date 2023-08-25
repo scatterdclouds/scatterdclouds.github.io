@@ -7,7 +7,7 @@ categories: [翻译, Sacred and Terrible Air]
 tags: []
 comments: true
 ---
-Extract from "4. Vitkun Hird" from *Sacred and Terrible Air* by Robert Kurvitz
+Extract from "4. Vidkun Hird" from *Sacred and Terrible Air* by Robert Kurvitz
 
 放映机里播放着一部12厘米影片。卡恩与马切耶克同坐在一张沙发上，怀疑地看着摆在方形碟子上的方形咖啡杯。他谨慎地靠近杯子，拿起一把勺子搅开糖分。这家名为“影院”的咖啡馆完全是玻璃与白色的。耶斯佩尔坐在一把白色的椅子上调整着放映机，周身围绕着隔音玻璃墙。白色的画布落在玻璃板上，而卡恩和马切耶克所坐的沙发也是白色的。在咖啡馆玻璃橱窗的中央是一只白虎的雕像。小心不要打碎任何东西——它会花掉你一大笔钱。
 
