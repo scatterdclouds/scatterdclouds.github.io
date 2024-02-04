@@ -21,6 +21,15 @@ permalink: /zaumiloveu/
 > 再多的尼尔·布洛姆坎普影片或异域镇魂曲地域都不能把它从我心里夺走。
 
 
+### Sacred and Terrible Air：
+
+- [非实体](_posts/nonentity.md)
+> 直至今日，仍有许多人相信那团细胞质就是共产主义本身。
+
+- [维德孔·赫德](_posts/vidkunhird.md)
+> 我们所有人，包括你，都有义务去增强我们体内这一原生的实体。就像掠食者的下颚通过食肉而变得更强壮。
+
+
 ### 其他：
 - Sacred and Terrible Air书评
 
