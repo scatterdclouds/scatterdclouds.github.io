@@ -9,11 +9,11 @@ comments: true
 ---
 来自The Anarchist Library
 
-> Title: Notes Towards a Critique of Maoism
-> Author: Loren Goldner
-> Topics: criticism and critique, left communism, Maoism
-> Date: 15th October 2012
-> Source: http://insurgentnotes.com/2012/10/notes-towards-a-critique-of-maoism/
+> Title: Notes Towards a Critique of Maoism <br/>
+> Author: Loren Goldner <br/>
+> Topics: criticism and critique, left communism, Maoism <br/>
+> Date: 15th October 2012 <br/>
+> Source: http://insurgentnotes.com/2012/10/notes-towards-a-critique-of-maoism/ <br/>
 
 毛主义是二十世纪一场更广泛的运动的一部分，可称之为“打着红旗的资产阶级革命”，正如在越南和朝鲜一样。
 
